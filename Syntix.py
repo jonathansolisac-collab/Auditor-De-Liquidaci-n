@@ -4,8 +4,8 @@ import numpy as np
 
 st.set_page_config(page_title="Syntix - Control de Liquidación", layout="wide")
 
-st.title("📊 Monitor de Incidencias y Liquidación de Rutas")
-st.markdown("### Módulo automatizado de validación: Soriana Portal vs. SICAV")
+st.title("📊 Desarrollo de SYNTIX Auditor de liquidacion")
+st.markdown("Módulo automatizado de validación")
 
 # ==========================================
 # 1. INTERFAZ DE CARGA DE ARCHIVOS

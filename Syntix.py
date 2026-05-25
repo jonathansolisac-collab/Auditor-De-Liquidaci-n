@@ -4,7 +4,7 @@ import numpy as np
 
 st.set_page_config(page_title="Syntix - Control de Liquidación", layout="wide")
 
-st.title("📊 Desarrollo de SYNTIX Auditor de liquidacion")
+st.title("📊 Desarrollo de SYNTIX Auditor de liquidación")
 st.markdown("Módulo automatizado de validación")
 
 # ==========================================
